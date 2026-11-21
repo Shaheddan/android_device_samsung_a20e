@@ -4,3 +4,6 @@ bluetooth.device.default_name=Galaxy A20e
 # Fingerprint
 ro.vendor.fingerprint.type=rear
 ro.vendor.fingerprint.supports_gestures=true
+
+# Memory: 3 GB. Compressed RAM at 75% (about 2.1 GB) keeps more apps open.
+ro.vendor.exynos.ram.zram_default=75
